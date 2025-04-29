@@ -1,7 +1,5 @@
-# note-taking-app
-Flask app with edit/delete note functionality
-# Note-Taking Web App
 
+# Note-Taking Web App
 A simple note-taking web app built using Flask and Python. This app allows users to sign up, log in, and manage their personal notes — including creating, editing, and deleting them.
 
 ## Features
